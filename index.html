@@ -509,7 +509,7 @@
                                  <div class="pricing-table-header grd1">
                                     <h2>Box profile</h2>
                                     <h3>g30 - Ksh 390/Metre<br>
-                                       Matt - Ksh 500/Metre
+                                       Matt g30 - Ksh 500/Metre
                                     </h3>
                                  </div>
                                  <div class="pricing-table-space"></div>
@@ -526,45 +526,8 @@
                            <div class="col-md-4">
                               <div class="pricing-table">
                                  <div class="pricing-table-header">
-                                    <h2>Classic stone coated</h2>
-                                    <h3>Ksh 650/Piece</h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-features">
-                                    <img src="images/stone coated.png" style="width: 100%;">
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd effect-1">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-
-                        </div>
-                        <!-- end row -->
-                        <div class="row text-center">
-
-                           <div class="col-md-4">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
-                                    <h2>Zee tile matte</h2>
-                                    <h3>matte28 - Ksh 730/Metre<br>
-                                       matte30 - Ksh 600/Metre
-                                    </h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-features">
-                                    <img src="images/zee tile.jpg" style="width: 100%;"><br><br><br><br>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd effect-1">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-4">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
                                     <h2>Ridges</h2>
-                                    <h3>Ksh 700/Piece</h3>
+                                    <h3>Ksh 650/Piece</h3>
                                  </div>
                                  <div class="pricing-table-space"></div>
                                  <div class="pricing-table-features">
@@ -575,25 +538,10 @@
                                  </div>
                               </div>
                            </div>
-                           <div class="col-md-4">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
-                                    <h2>Roman long tile</h2>
-                                    <h3>g28 - Ksh 750/Metre<br>
-                                       g30 - Ksh 580/Metre
-                                    </h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-features">
-                                    <img src="images/roman longtile.png" style="width: 100%;"><br><br><br>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd effect-1">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
+
                         </div>
-                        <!-- end of row -->
+                        <!-- end row -->
+                        
                      </div>
                      <!-- end pane -->
                    
